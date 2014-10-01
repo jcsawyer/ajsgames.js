@@ -10,9 +10,10 @@ It is heavily influenced by Microsft's XNA and MonoGame frameworks.
 
 Planned Features
 ----------
--Debugging Tools
--Audio Manager
--Content Manager
--SpriteBatch
--Input Handler
--Pre-Built Game Components
+
+- Debugging Tools
+- Audio Manager
+- Content Manager
+- SpriteBatch
+- Input Handler
+- Pre-Built Game Components
