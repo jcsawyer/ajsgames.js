@@ -23,7 +23,7 @@ AJSGAMES.Framework.MathHelper = {
     Max: function (value1, value2) {
         return Math.max(value1, value2);
     },
-    ToDegrees: function (radiant) {
+    ToDegrees: function (radians) {
         return radians * 57.295779513082320876798154814105;
     },
     ToRadians: function (degrees) {
